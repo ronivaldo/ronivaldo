@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Ronivaldo Sampaio and I'm a software developer/DevOps/ML engineer. I'm from Brazil, living in Fortaleza and currently woring at SEFAZ/CE. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Ronivaldo Sampaio and I'm a software developer/DevOps/Security/ML engineer. I'm from Brazil, living in Fortaleza and currently working as ML Engineer at SEFAZ/CE. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
