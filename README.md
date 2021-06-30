@@ -30,12 +30,12 @@ Apart from coding, I also maintain a inovation company - you can find more on we
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronivaldo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ronivaldo's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ronivaldo/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronivaldo&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ronivaldo/websocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronivaldo&repo=websocket&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronivaldo&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ronivaldo/plantaIoT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronivaldo&repo=plantaIoT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
